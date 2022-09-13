@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="sgte">Siguiente</string>
+    <string name="no">no</string>
+    <string name="si">si</string>
+    <string name="score">Score</string>
+    <string name="pelicula">Pelicula</string>
+    <string name="capitales">Capitales</string>
+    <string name="equipo">Equipo</string>
+    <string name="seleccionar_cuestionario">seleccionar cuestionario</string>
+    <string name="inicio">Inicio</string>
+</resources>
